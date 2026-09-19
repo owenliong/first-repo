@@ -1,0 +1,1 @@
+The PDF Merger is a simple programm that combines/merges multiple PDF documents into a single PDF document.
